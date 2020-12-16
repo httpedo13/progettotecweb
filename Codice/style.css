@@ -19,13 +19,13 @@ header {
   position: sticky;
   font-size: 0.8em;
   top: 0px;
-  padding: 15px;
+  padding: 1px;
   background: rgba(235,245,239,0.8);
 }
 
 #logo1 {
-	width: 10%;
-	max-width: 7em;
+	width: 13%;
+	max-width: 15em;
     position: initial;
 }
 
@@ -36,8 +36,8 @@ ul#menu {
     margin: 0;
     padding: 0;
     position: relative;
-    left:200px;
-    top:-75px;
+    left:300px;
+    top:-65px;
     list-style: none;
 }
 
