@@ -14,7 +14,7 @@ body {
 	border: 1px;
 }
 
-header {
+#header {
   position: -webkit-sticky;
   position: sticky;
   font-size: 0.8em;
@@ -24,9 +24,16 @@ header {
 }
 
 #logo1 {
+	width: 5%;
+	max-width: 15em;
+    float: left;
+}
+
+#scritta_negozio {
 	width: 13%;
 	max-width: 15em;
-    position: initial;
+    position: relative;
+    left: 1%;
 }
 
 ul#menu {
@@ -36,7 +43,7 @@ ul#menu {
     margin: 0;
     padding: 0;
     position: relative;
-    left:300px;
+    left:17%;
     top:-65px;
     list-style: none;
 }
