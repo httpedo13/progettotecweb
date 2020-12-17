@@ -50,6 +50,8 @@ form{
 #corpo_gestione{
   width: 50%;
   margin: auto;
+  position: relative;
+  right: 4.5%;
 }
 
 input[type=text], input[type=password], select {
