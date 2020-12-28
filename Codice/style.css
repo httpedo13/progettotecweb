@@ -24,16 +24,9 @@ body {
 }
 
 #logo1 {
-	width: 5%;
+	width: 30%;
 	max-width: 15em;
     float: left;
-}
-
-#scritta_negozio {
-	width: 13%;
-	max-width: 15em;
-    position: relative;
-    left: 1%;
 }
 
 ul#menu {
@@ -43,8 +36,7 @@ ul#menu {
     margin: 0;
     padding: 0;
     position: relative;
-    left:17%;
-    top:-65px;
+    left:5%;
     list-style: none;
 }
 
