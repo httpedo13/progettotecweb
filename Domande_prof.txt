@@ -1,7 +1,0 @@
-Cosa da chieder alla prof:
--gestione delle immagini (qualità e anteprima per la gallery);
--software per riduzione peso immagini;
--accessibilità pagina lavori;
--
--
--[condivisione database tra membri del gruppo].
