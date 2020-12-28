@@ -16,11 +16,17 @@ body{
   font-family: Verdana, sans-serif;
 }
 
+#timedate {
+  font: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
 #intestazione_index{
   width:70%;
   margin: auto 15% 5% 15%;
   text-align: center;
-  display: block;
 }
 
 h1{
@@ -29,6 +35,7 @@ h1{
 
 #logocompleto{
   width: 90%;
+  margin-top: 1em;
 }
 
 section{

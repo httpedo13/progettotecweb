@@ -1,15 +1,60 @@
 <!DOCTYPE html>
-<html>
-    <head>
+<html lang="it">
+
+<head>
+	<meta name="description" content="Sito realizzato per fioreria" />
+	<meta name="keywords" content="fiori, mazzi di fiori, floreale, fioreria, fioreria ospedaletto euganeo, fioreria padova" />
+	<meta name="author" content="Tutti" />
+    <meta name="language" content="italian it" />
+        <script>
+// START CLOCK SCRIPT
+
+Number.prototype.pad = function(n) {
+  for (var r = this.toString(); r.length < n; r = 0 + r);
+  return r;
+};
+
+function updateClock() {
+  var now = new Date();
+  var sec = now.getSeconds(),
+    min = now.getMinutes(),
+    hou = now.getHours(),
+    mo = now.getMonth(),
+    dy = now.getDate(),
+    yr = now.getFullYear();
+  var months = ["Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno", "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"];
+  var tags = ["mon", "d", "y", "h", "m", "s"],
+    corr = [months[mo], dy, yr, hou.pad(2), min.pad(2), sec.pad(2)];
+  for (var i = 0; i < tags.length; i++)
+    document.getElementById(tags[i]).firstChild.nodeValue = corr[i];
+}
+
+function initClock() {
+  updateClock();
+  window.setInterval("updateClock()", 1);
+}
+
+// END CLOCK SCRIPT
+
+        </script>
         <title>Gestione</title>
         <link rel="stylesheet" type="text/css" href="style/style.css" media="screen" >
     </head>
-    <body>
+    <body onLoad="initClock()">
         <header>            
         </header>
         <section>                        
             <div id="intestazione_index">
-                <img src="img/logotitle.png" id="logocompleto">             
+                    <div id="timedate">
+                        <a id="d">1</a>
+                        <a id="mon">January</a>                   
+                        <a id="y">0</a><br />
+                        <a id="h">12</a> :
+                        <a id="m">00</a>:
+                        <a id="s">00</a>
+                    </div>    
+                <img src="img/logotitle.png" id="logocompleto"> 
+        
             </div>
             <form action="admin.html">
                 <h1> LOGIN </h1>    
