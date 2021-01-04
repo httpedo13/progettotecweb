@@ -29,10 +29,26 @@ CREATE TABLE IF NOT EXISTS `users` (
   `IDUltimoAccesso` int(4) NOT NULL
 );
 INSERT INTO `users` (`ID`, `NomeUtente`, `PWD`, `Permessi`, `IDUltimoAccesso`) VALUES
-(1, 'Admin', 'adminadmin', 1, 0),
-(2, 'Editor1', 'ed1ed1', 0, 0),
-(3, 'Editor2', 'ed2ed2', 0, 0);
+(1, 'Admin', 'adminadmin', 1, 5),
+(2, 'Editor1', 'ed1ed1', 0, 4),
+(3, 'Editor2', 'ed2ed2', 0, 2);
 
+CREATE TABLE IF NOT EXISTS `accessi` (
+  `ID` int(11) NOT NULL PRIMARY KEY,
+  `IDUtente` int(11) NOT NULL,
+  `InizioSessione` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  FOREIGN KEY(`IDUtente`) REFERENCES users(`ID`)   
+);
+INSERT INTO `accessi` (`ID`, `IDUtente`, `InizioSessione`) VALUES
+(1, 2, '2020-12-28 15:56'),
+(2, 3, '2020-12-30 11:37'),
+(3, 2, '2021-01-02 10:12'),
+(4, 2, '2021-01-02 18:46'),
+(5, 1, '2021-01-03 11:25');
+
+ALTER TABLE users 
+	ADD FOREIGN KEY(`IDUltimoAccesso`) REFERENCES accessi(`ID`);
+	
 CREATE TABLE IF NOT EXISTS `lavori` (
   `ID` int(4) NOT NULL PRIMARY KEY,
   `Titolo` varchar(25) NOT NULL,
@@ -46,19 +62,6 @@ INSERT INTO `lavori` (`ID`, `Titolo`, `pinn`, `visibilita`, `evento`, `posizione
 (2, 'San Valentino', 3, 1, 1, NULL),
 (3, 'Matrimonio', 5, 1, 0, 3),
 (4, 'Festa della Mamma', 3, 0, 1, NULL);
-
-CREATE TABLE IF NOT EXISTS `accessi` (
-  `ID` int(11) NOT NULL PRIMARY KEY,
-  `IDUtente` int(11) NOT NULL,
-  `InizioSessione` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-  FOREIGN KEY(`IDUtente`) REFERENCES users(`ID`)   
-);
-INSERT INTO `accessi` (`ID`, `IDUtente`, `InizioSessione`) VALUES
-(1, 2, '2020-12-28 15:56'),
-(2, 3, '2020-12-30 11:37'),
-(3, 2, '2021-01-02 10:12'),
-(4, 2, '2021-01-02 18:46'),
-(5, 3, '2021-01-03 18:46');
 
 CREATE TABLE IF NOT EXISTS `immagini` (
   `ID` int(4) NOT NULL PRIMARY KEY,
