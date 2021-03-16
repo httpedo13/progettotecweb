@@ -1,0 +1,8 @@
+Font
+font-family: Verdana, sans-serif; 
+
+Colori
+* #EBF5EF	> usato nel header/footer 
+* #91ED94	> bordo verde chiaro header 
+* #585858 	> grigio delle scritte 
+* #389C3B 	> verde scuro della scritta home

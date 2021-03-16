@@ -1,0 +1,21 @@
+\documentclass[a4paper]{article}
+\input{../latex/package.tex}
+\input{config/titlepage_input.tex} % modifica questo file
+\makeindex
+
+\usepackage{hyperref}
+
+
+\begin{document}
+	\input{../latex/titlepage.tex}
+	\pagebreak	
+
+	% indice
+	\tableofcontents	
+	\pagebreak
+		
+	% contenuto del documento, ogni sezione in un file
+	\input{res/sections/01_Introduction.tex} 
+	\pagebreak
+	
+\end{document}
