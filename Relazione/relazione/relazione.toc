@@ -20,9 +20,5 @@
 \contentsline {subsection}{\numberline {3.3}Print}{6}{subsection.3.3}%
 \contentsline {subsubsection}{\numberline {3.3.1}Cliente}{6}{subsubsection.3.3.1}%
 \contentsline {subsubsection}{\numberline {3.3.2}Admin}{6}{subsubsection.3.3.2}%
-\contentsline {section}{\numberline {4}Test}{7}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Accessibilità}{7}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}Separazione tra presentazione, struttura e comportamento}{7}{subsubsection.4.1.1}%
-\contentsline {subsubsection}{\numberline {4.1.2}Navigazione}{7}{subsubsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.2}C'è anche qualcos'altro?}{7}{subsection.4.2}%
+\contentsline {section}{\numberline {4}Accessibilità}{7}{section.4}%
 \contentsline {section}{\numberline {5}Realizzazione}{8}{section.5}%
