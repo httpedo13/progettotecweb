@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.12.14)  14 JUN 2021 19:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.12.14)  15 JUN 2021 10:21
 entering extended mode
 **./relazione.tex
 (relazione.tex
@@ -784,51 +784,48 @@ File: ../latex/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 1.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
  [2]
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
+LaTeX Font Info:    Trying to load font information for TS1+qcs on input line 1
+1.
 
- []
-
-<../latex/images/db.png, id=143, 768.8725pt x 387.4475pt>
-File: ../latex/images/db.png Graphic file (type png)
-<use ../latex/images/db.png>
-Package pdftex.def Info: ../latex/images/db.png  used on input line 11.
-(pdftex.def)             Requested size: 384.4353pt x 193.72327pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--22
-
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+qcs on input line 2
-2.
 ("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tex-gyre\ts1qcs.fd
 "
 File: ts1qcs.fd 2009/09/25 v1.2 font definition file for TS1/qcs
 )
+<../latex/images/db.png, id=143, 708.6475pt x 387.4475pt>
+File: ../latex/images/db.png Graphic file (type png)
+<use ../latex/images/db.png>
+Package pdftex.def Info: ../latex/images/db.png  used on input line 48.
+(pdftex.def)             Requested size: 354.32289pt x 193.72327pt.
 File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
-Package pdftex.def Info: ../latex/images/logo.png  used on input line 26.
+Package pdftex.def Info: ../latex/images/logo.png  used on input line 49.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
- [3 <../latex/images/db.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--46
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
 File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
-Package pdftex.def Info: ../latex/images/logo.png  used on input line 56.
+Package pdftex.def Info: ../latex/images/logo.png  used on input line 73.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 57--59
+[4 <../latex/images/db.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 79--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
 
  []
 
@@ -870,13 +867,13 @@ Package rerunfilecheck Info: File `relazione.out' has not changed.
 (rerunfilecheck)             Checksum: A653655A38C1541716AA3353E2D619E7;1354.
  ) 
 Here is how much of TeX's memory you used:
- 11287 strings out of 480898
- 166950 string characters out of 2898308
- 476366 words of memory out of 3000000
+ 11289 strings out of 480898
+ 166963 string characters out of 2898308
+ 477366 words of memory out of 3000000
  26867 multiletter control sequences out of 15000+200000
  567235 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,16n,47p,832b,505s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,16n,47p,832b,409s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/giada/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm
 -super-t1.enc}{C:/Users/giada/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips
 /tex-gyre/q-ts1.enc}{C:/Users/giada/AppData/Local/Programs/MiKTeX 2.9/fonts/enc
@@ -888,9 +885,9 @@ Programs/MiKTeX 2.9/fonts/type1/public/tex-gyre/qcsri.pfb><C:/Users/giada/AppDa
 ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfss1440.pfb><C:/Users
 /giada/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.p
 fb>
-Output written on relazione.pdf (9 pages, 3131567 bytes).
+Output written on relazione.pdf (9 pages, 3132352 bytes).
 PDF statistics:
- 220 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
+ 222 PDF objects out of 1000 (max. 8388607)
+ 42 named destinations out of 1000 (max. 500000)
  197 words of extra memory for PDF output out of 10000 (max. 10000000)
 
