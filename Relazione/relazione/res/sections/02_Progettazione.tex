@@ -49,10 +49,10 @@ Viene ora mostrata la struttura del database del sito, il quale permetterà la g
 \end{center}
 
 \subsection{Struttura dei contenuti}
-dire che c'è lato clienti e lato admin.
+Il sito si sviluppa nelle sue due parti, ovvero \textit{lato cliente} per i clienti interessati alla fioreria e ai prodotti che essa offre, e \textit{lato admin} per gli amministratori che si occupano della gestione dei contenuti del sito della fioreria. 
 
 \subsubsection{Lato cliente}
-qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa qualcosa.\\\\
+Vengono ora descritte e argomentate le pagine che compongono il sito nel \textit{lato cliente}.\\\\
 \textbf{Pagine}\\
 qualcosa qualcosa qualcosa qualcosa	
 	\begin{itemize}
@@ -77,11 +77,11 @@ qualcosa qualcosa qualcosa qualcosa
  		
 \subsubsection{Lato Admin}
 Come prima cosa è bene precisare che tutti gli admin inseriti hanno tutti gli stessi permessi sulla gestione di tutto il sistema. Questo è stato fatto perchè ad avere accesso all'interfaccia di amministrazione saranno un numero ristretto di fidate persone.\\
-- discorso login\\
-- discorso session\\\\
-\textbf{Pagine}\\ qualcosa qualcosa qualcosa
+Ogni amministratore si collega alla pagina di login e si autentica con le credenziali personali. È stata anche implementata una variabile di \texttt{SESSION}, per poter evitare che terzi possano accedere alle pagine di amministrazione senza essersi autenticati.\\
+Vengono ora descritte e argomentate le pagine che compongono il sito nel \textit{lato cliente}.\\\\
+\textbf{Pagine}\\ Il layout desktop per l'amministratore presenta un menù laterale a destra con tutte le pagine dove esso si può muovere.
 	\begin{itemize}
-		\item \textbf{Dashboard};\\qualcosa qualcosa
+		\item \textbf{Dashboard};\\In questa pagina l'amministratore vede le ultime richieste inviate dai clienti e può modificare gli orari di apertura del negozio. Si è deciso di dare la possibilità all'amministratore di modificare solo gli orari, poichè il numero di telefono, l'email e l'indirizzo non sono dati che cambiano spesso, come invece lo sono gli orari di apertura. Uno sviluppo futuro potrebbe essere proprio quello di aggiungere uno spazio per la modifica anche di queste informazioni.
 		\item \textbf{Gestione richieste};\\qualcosa qualcosa
 		\item \textbf{Gestione categorie};\\dire le pagine che lo compongono e come funziona il tutto
 	 	\begin{itemize}
@@ -90,7 +90,7 @@ Come prima cosa è bene precisare che tutti gli admin inseriti hanno tutti gli s
  			\item Elimina categoria;\\qualcosa qualcosa
 	 	\end{itemize}
  	\item \textbf{Gestione utenti}\\qualcosa qualcosa qualcosa
- 	\item \textbf{Logout}\\qualcosa qualcosa qualcosa\\
+ 	\item \textbf{Logout}\\Quando l'amministratore clicca su questa voce del menù, effettua il logout dalla piattaforma e viene reindirizzato alla pagina di login. La variabile di \texttt{SESSION} viene quindi chiusa e quindi se l'amministratore prova ad accedere ad una specifica pagina di amministrazione dopo aver fatto il logout, viene reindirizzato alla pagina di login per potersi autenticare.\\
  	\end{itemize}
 \textbf{Parti fondamentali -> troviamoci un sinonimo} \\
 \begin{itemize}

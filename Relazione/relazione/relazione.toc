@@ -10,15 +10,15 @@
 \contentsline {subsection}{\numberline {2.3}Struttura dei contenuti}{4}{subsection.2.3}%
 \contentsline {subsubsection}{\numberline {2.3.1}Lato cliente}{4}{subsubsection.2.3.1}%
 \contentsline {subsubsection}{\numberline {2.3.2}Lato Admin}{5}{subsubsection.2.3.2}%
-\contentsline {section}{\numberline {3}Presentazione}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Desktop}{6}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Cliente}{6}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}Admin}{6}{subsubsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.2}Mobile}{6}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Cliente}{6}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Admin}{6}{subsubsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.3}Print}{6}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Cliente}{6}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}Admin}{6}{subsubsection.3.3.2}%
-\contentsline {section}{\numberline {4}Accessibilità}{7}{section.4}%
-\contentsline {section}{\numberline {5}Realizzazione}{8}{section.5}%
+\contentsline {section}{\numberline {3}Presentazione}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Desktop}{7}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Cliente}{7}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Admin}{7}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Mobile}{7}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Cliente}{7}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Admin}{7}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Print}{7}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Cliente}{7}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Admin}{7}{subsubsection.3.3.2}%
+\contentsline {section}{\numberline {4}Accessibilità}{8}{section.4}%
+\contentsline {section}{\numberline {5}Realizzazione}{9}{section.5}%
