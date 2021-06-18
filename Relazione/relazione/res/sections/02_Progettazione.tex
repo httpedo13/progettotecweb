@@ -1,6 +1,6 @@
 \section{Progettazione}
-Nella fase iniziale, il gruppo ha deciso come strutturare il sito, sia dal per l'amministratore, che per l'utente visitatore, in base degli obiettivi prefissati e alle linee guida da seguire.\\
-È stata definito lo schema generale del database, pensandolo nella maniera più mantenibile per sviluppi futuri. \\
+Nella fase iniziale, il gruppo ha deciso come strutturare il sito, e il portale di amministrazione, in base degli obiettivi prefissati e alle linee guida da seguire.\\
+È stata definito lo schema generale del database, pensandolo con un ottica volta a favorire la scalabilità futura. \\
 Successivamente sono stati definiti i diversi layout per ogni pagina del sito, pensando ai diversi schermi di visualizzazione.\\Pianificando gli obiettivi, sono stati suddivisi i compiti tra i membri del gruppo.
 
 \subsection{Classificazione degli utenti}
@@ -8,21 +8,21 @@ I tipi di utente sono:
 \begin{enumerate}
 \item \textbf{cliente}, \\ovvero l'utente interessato ai contenuti del sito, quindi:
 \begin{itemize}
-\item può visualizzare i lavori che la fioreria produce, anche nel dettaglio;
+\item può visualizzare i lavori che la fioreria realizza, divisi per categoria, anche nel dettaglio;
 \item tramite la pagina contatti, può: 
 \begin{itemize}
-\item visualizzare tutte le informazioni identificative riguardo la fioreria;
+\item visualizzare tutte le informazioni identificative;
 \item contattare l'amministratore tramite un apposito form;
 \end{itemize}  
 \end{itemize}  
-\item \textbf{admin}, \\ovvero l'utente interessato alla gestione dei contenuti del sito, quindi:
+\item \textbf{admin}, \\ovvero l'utente interessato alla gestione dei contenuti del sito:
 \begin{itemize}
 \item può gestire le richieste che i clienti mandano tramite l'apposito form; 
 \item può gestire le categorie di lavori:
 \begin{itemize}
 \item creare una nuova categoria di lavoro;
-\item modificare i dati di una nuova categoria di lavoro già inserita;
-\item eliminare una categoria di lavoro già inserita;
+\item modificare le immagini di una categoria già inserita;
+\item eliminare completamente una categoria di lavoro;
 \end{itemize} 
 \item può gestire gli orari del pubblico da mostrare;
 \item può gestire gli altri amministratori del sito, e eventualmente aggiungerne uno;
@@ -76,8 +76,8 @@ qualcosa qualcosa qualcosa qualcosa
  	\end{itemize}
  		
 \subsubsection{Lato Admin}
-Come prima cosa è bene precisare che tutti gli admin inseriti hanno tutti gli stessi permessi sulla gestione di tutto il sistema. Questo è stato fatto perchè ad avere accesso all'interfaccia di amministrazione saranno un numero ristretto di fidate persone.\\
-Ogni amministratore si collega alla pagina di login e si autentica con le credenziali personali. È stata anche implementata una variabile di \texttt{SESSION}, per poter evitare che terzi possano accedere alle pagine di amministrazione senza essersi autenticati.\\
+Come prima cosa è bene precisare che tutti gli admin inseriti hanno tutti gli stessi permessi sulla gestione del sito. Questo è stato fatto perchè attualmente non ci sono esigenze particolari e gli accessi vengono farti da un numero ristretto di persone fidate.\\
+Ogni amministratore si collega alla pagina di login e si autentica con le credenziali personali. È stata implementata una variabile di \texttt{SESSION}, per poter evitare che terzi possano accedere alle pagine di amministrazione senza essersi autenticati.\\
 Vengono ora descritte e argomentate le pagine che compongono il sito nel \textit{lato cliente}.\\\\
 \textbf{Pagine}\\ Il layout desktop per l'amministratore presenta un menù laterale a destra con tutte le pagine dove esso si può muovere.
 	\begin{itemize}

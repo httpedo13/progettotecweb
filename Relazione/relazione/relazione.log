@@ -1,306 +1,277 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.12.14)  18 JUN 2021 10:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.4.9)  18 JUN 2021 12:11
 entering extended mode
-**./relazione.tex
-(relazione.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06>
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
-File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**relazione.tex
+(./relazione.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen134
-) (../latex/package.tex
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
-sty"
-Package: geometry 2020/01/02 v5.9 Page Geometry
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(../latex/package.tex
+(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
-y"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
+\KV@toks@=\toks14
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty
-"
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- ("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
-"
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2019/05/04 3.31 The Babel package
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2019/05/04 3.31 Babel switching mechanism
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel-italian/italian.ldf
+Language: italian 2019/01/05 v.1.4.01 Italian support for the babel system
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2019/05/04 3.31 Babel common definitions
+\babel@savecnt=\count91
+\U@D=\dimen111
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count92
+)
+\it@lettering=\count93
+\it@doublequoteactive=\count94
+\it@ISOcompliance=\count95
 ))
-\Gm@cnth=\count175
-\Gm@cntv=\count176
-\c@Gm@tempcnt=\count177
-\Gm@bindingoffset=\dimen135
-\Gm@wd@mp=\dimen136
-\Gm@odd@mp=\dimen137
-\Gm@even@mp=\dimen138
-\Gm@layoutwidth=\dimen139
-\Gm@layoutheight=\dimen140
-\Gm@layouthoffset=\dimen141
-\Gm@layoutvoffset=\dimen142
-\Gm@dimlist=\toks16
-
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
-cfg"))
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
-Package: babel 2020/03/22 3.42 The Babel package
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
-"
-File: switch.def 2020/03/22 3.42 Babel switching mechanism
+(/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count96
 )
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-italian\ital
-ian.ldf"
-Language: italian 2019/11/16 v.1.4.03 Italian support for the babel system
-
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
-File: babel.def 2020/03/22 3.42 Babel common definitions
-\babel@savecnt=\count178
-\U@D=\dimen143
-
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.d
-ef")
-\bbl@readstream=\read2
-\bbl@dirlevel=\count179
-)
-\it@lettering=\count180
-\it@doublequoteactive=\count181
-\it@ISOcompliance=\count182
-))
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.
-sty"
-Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count183
-)
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks17
-\inpenc@posthook=\toks18
-) ("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
-"
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tex-gyre\tgschola.
-sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tex-gyre/tgschola.sty
 Package: tgschola 2009/09/27 v1.2 TeX Gyre Schola as default roman family
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoption
-s.sty"
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.
-sty"
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetk
-eys.sty"
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)))
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\tabularx.sty
-"
-Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
- ("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen144
-\ar@mcellbox=\box45
-\extrarowheight=\dimen145
-\NC@list=\toks19
-\extratabsurround=\skip49
-\backup@length=\skip50
-\ar@cellbox=\box46
-)
-\TX@col@width=\dimen146
-\TX@old@table=\dimen147
-\TX@old@col=\dimen148
-\TX@target=\dimen149
-\TX@delta=\dimen150
-\TX@cols=\count184
-\TX@ftn=\toks20
-)
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longtable.st
-y"
-Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
-\LTleft=\skip51
-\LTright=\skip52
-\LTpre=\skip53
-\LTpost=\skip54
-\LTchunksize=\count185
-\LTcapwidth=\dimen151
-\LT@head=\box47
-\LT@firsthead=\box48
-\LT@foot=\box49
-\LT@lastfoot=\box50
-\LT@cols=\count186
-\LT@rows=\count187
-\c@LT@tables=\count188
-\c@LT@chunks=\count189
-\LT@p@ftn=\toks21
-)
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
-sty"
-Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexc
-mds.sty"
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwar
-err.sty"
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)))))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen112
+\ar@mcellbox=\box27
+\extrarowheight=\dimen113
+\NC@list=\toks18
+\extratabsurround=\skip43
+\backup@length=\skip44
+\ar@cellbox=\box28
 )
+\TX@col@width=\dimen114
+\TX@old@table=\dimen115
+\TX@old@col=\dimen116
+\TX@target=\dimen117
+\TX@delta=\dimen118
+\TX@cols=\count97
+\TX@ftn=\toks19
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
+\LTleft=\skip45
+\LTright=\skip46
+\LTpre=\skip47
+\LTpost=\skip48
+\LTchunksize=\count98
+\LTcapwidth=\dimen119
+\LT@head=\box29
+\LT@firsthead=\box30
+\LT@foot=\box31
+\LT@lastfoot=\box32
+\LT@cols=\count99
+\LT@rows=\count100
+\c@LT@tables=\count101
+\c@LT@chunks=\count102
+\LT@p@ftn=\toks20
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvd
-efinekeys.sty"
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdfesc
-ape.sty"
-Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor.st
-y"
-Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\letltx
-macro.sty"
-Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.st
-y"
-Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-)
-\@linkdim=\dimen152
-\Hy@linkcounter=\count190
-\Hy@pagecounter=\count191
+\@linkdim=\dimen120
+\Hy@linkcounter=\count103
+\Hy@pagecounter=\count104
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
-f"
-File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intcalc.
-sty"
-Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+\Hy@SavedSpaceFactor=\count105
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexcmd
-s.sty"
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)
-\Hy@SavedSpaceFactor=\count192
-Package hyperref Info: Hyper figures OFF on input line 4547.
-Package hyperref Info: Link nesting OFF on input line 4552.
-Package hyperref Info: Hyper index ON on input line 4555.
-Package hyperref Info: Plain pages OFF on input line 4562.
-Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4800.
-\c@Hy@tempcnt=\count193
- ("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
-\Urlmuskip=\muskip16
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count106
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5159.
-\XeTeXLinkMargin=\dimen153
-
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset.st
-y"
-Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bigin
-tcalc.sty"
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
-))
-\Fld@menulength=\count194
-\Field@Width=\dimen154
-\Fld@charsize=\dimen155
-Package hyperref Info: Hyper figures OFF on input line 6430.
-Package hyperref Info: Link nesting OFF on input line 6435.
-Package hyperref Info: Hyper index ON on input line 6438.
-Package hyperref Info: backreferencing OFF on input line 6445.
-Package hyperref Info: Link coloring OFF on input line 6450.
-Package hyperref Info: Link coloring with OCG OFF on input line 6455.
-Package hyperref Info: PDF/A mode OFF on input line 6460.
-LaTeX Info: Redefining \ref on input line 6500.
-LaTeX Info: Redefining \pageref on input line 6504.
-
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atbegsh
-i.sty"
-Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
-)
-\Hy@abspage=\count195
-\c@Item=\count196
-\c@Hfootnote=\count197
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen121
+\Fld@menulength=\count107
+\Field@Width=\dimen122
+\Fld@charsize=\dimen123
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count108
+\c@Item=\count109
+\c@Hfootnote=\count110
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
-ef"
-File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count111
+\c@bookmark@seq@number=\count112
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/atveryend\atveryen
-d.sty"
-Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
-)
-\Fld@listcount=\count198
-\c@bookmark@seq@number=\count199
-
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck\rer
-unfilecheck.sty"
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
-
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounter\un
-iquecounter.sty"
-Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
-)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
+82.
 )
-\Hy@SectionHShift=\skip55
+\Hy@SectionHShift=\skip49
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.
-sty"
-Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip56
-\enit@outerparindent=\dimen156
-\enit@toks=\toks22
-\enit@inbox=\box51
-\enit@count@id=\count266
-\enitdp@description=\count267
+(/usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip50
+\enit@outerparindent=\dimen124
+\enit@toks=\toks21
+\enit@inbox=\box33
+\enit@count@id=\count113
+\enitdp@description=\count114
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 18.
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/chngcntr\chngcntr.
-sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 Package: chngcntr 2018/04/09 v1.1a change counter resetting
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/footmisc\footmisc.
-sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks23
-\footnotemargin=\dimen157
-\c@pp@next@reset=\count268
+\FN@temptoken=\toks22
+\footnotemargin=\dimen125
+\c@pp@next@reset=\count115
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
@@ -310,279 +281,256 @@ Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.
-sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip57
-\f@nch@O@elh=\skip58
-\f@nch@O@erh=\skip59
-\f@nch@O@olh=\skip60
-\f@nch@O@orh=\skip61
-\f@nch@O@elf=\skip62
-\f@nch@O@erf=\skip63
-\f@nch@O@olf=\skip64
-\f@nch@O@orf=\skip65
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
-y"
-Package: amsmath 2020/01/20 v2.17e AMS math features
-\@mathmargin=\skip66
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip60
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
-y"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
-"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks24
-\ex@=\dimen158
+\@emptytoks=\toks23
+\ex@=\dimen126
 ))
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
-"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen159
+\pmbraise@=\dimen127
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
-"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count269
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count270
-\leftroot@=\count271
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count272
-\DOTSCASE@=\count273
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box52
-\strutbox@=\box53
-\big@size=\dimen160
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count274
-\c@MaxMatrixCols=\count275
-\dotsspace@=\muskip17
-\c@parentequation=\count276
-\dspbrk@lvl=\count277
-\tag@help=\toks25
-\row@=\count278
-\column@=\count279
-\maxfields@=\count280
-\andhelp@=\toks26
-\eqnshift@=\dimen161
-\alignsep@=\dimen162
-\tagshift@=\dimen163
-\tagwidth@=\dimen164
-\totwidth@=\dimen165
-\lineht@=\dimen166
-\@envbody=\toks27
-\multlinegap=\skip67
-\multlinetaggap=\skip68
-\mathdisplay@stack=\toks28
-LaTeX Info: Redefining \[ on input line 2859.
-LaTeX Info: Redefining \] on input line 2860.
+\inf@bad=\count116
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count117
+\leftroot@=\count118
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count119
+\DOTSCASE@=\count120
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box34
+\strutbox@=\box35
+\big@size=\dimen128
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count121
+\c@MaxMatrixCols=\count122
+\dotsspace@=\muskip11
+\c@parentequation=\count123
+\dspbrk@lvl=\count124
+\tag@help=\toks24
+\row@=\count125
+\column@=\count126
+\maxfields@=\count127
+\andhelp@=\toks25
+\eqnshift@=\dimen129
+\alignsep@=\dimen130
+\tagshift@=\dimen131
+\tagwidth@=\dimen132
+\totwidth@=\dimen133
+\lineht@=\dimen134
+\@envbody=\toks26
+\multlinegap=\skip61
+\multlinetaggap=\skip62
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
-ty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
-sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
-sty"
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
-sty"
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
-ics.cfg"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
-x.def"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen167
-\Gin@req@width=\dimen168
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
-sty"
-\lst@mode=\count281
-\lst@gtempboxa=\box54
-\lst@token=\toks29
-\lst@length=\count282
-\lst@currlwidth=\dimen169
-\lst@column=\count283
-\lst@pos=\count284
-\lst@lostspace=\dimen170
-\lst@width=\dimen171
-\lst@newlines=\count285
-\lst@lineno=\count286
-\lst@maxwidth=\dimen172
+(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count128
+\lst@gtempboxa=\box36
+\lst@token=\toks28
+\lst@length=\count129
+\lst@currlwidth=\dimen137
+\lst@column=\count130
+\lst@pos=\count131
+\lst@lostspace=\dimen138
+\lst@width=\dimen139
+\lst@newlines=\count132
+\lst@lineno=\count133
+\lst@maxwidth=\dimen140
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
-ty"
-File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count287
-\lst@skipnumbers=\count288
-\lst@framebox=\box55
+(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count134
+\lst@skipnumbers=\count135
+\lst@framebox=\box37
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
-cfg"
-File: listings.cfg 2020/03/24 1.8d listings configuration
+(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
-Package: listings 2020/03/24 1.8d (Carsten Heinz)
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/layouts\layouts.st
-y"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/layouts/layouts.sty
 Package: layouts 2009/09/02 v2.6d graphical depiction of document elements
-\l@ylen=\skip69
-\layoutsbox=\box56
-\l@youtunitlength=\skip70
-\l@youtlinethick=\skip71
-\l@youtlinethickii=\skip72
-\l@ysetupparskip=\skip73
-\l@ysetupbaselineskip=\skip74
-\l@yonem=\skip75
-\l@yonex=\skip76
-\l@ylmarg=\skip77
-\l@yrmarg=\skip78
-\l@yitmindent=\skip79
-\l@ylblwidth=\skip80
-\l@ylblsep=\skip81
-\l@ylparindent=\skip82
-\l@ytsep=\skip83
-\l@ypskip=\skip84
-\l@yptsep=\skip85
-\l@ypsep=\skip86
-\l@yitmsep=\skip87
-\l@ytok=\toks30
-\l@youtpw=\count289
-\l@youtph=\count290
-\l@youthpi=\count291
-\l@youthpii=\count292
-\l@youthpiii=\count293
-\l@youthpiv=\count294
-\l@youthpv=\count295
-\l@youthpvi=\count296
-\l@youthpvii=\count297
-\l@youtparskip=\count298
-\l@youtvpi=\count299
-\l@youtvpii=\count300
-\l@youtvpiii=\count301
-\l@youtvpiv=\count302
-\l@youtvpv=\count303
-\l@youtvpvi=\count304
-\l@youtvpvii=\count305
-\l@youthdo=\count306
-\l@youthdi=\count307
-\l@youthdii=\count308
-\l@youthdiii=\count309
-\l@youthdiv=\count310
-\l@youthdv=\count311
-\l@youthdvi=\count312
-\l@youthdvii=\count313
-\l@youtvdo=\count314
-\l@youtvdi=\count315
-\l@youtvdii=\count316
-\l@youtvdiii=\count317
-\l@youtvdiv=\count318
-\l@youtvdv=\count319
-\l@youtvdvi=\count320
-\l@youtvdvii=\count321
-\l@youtvdviii=\count322
-\l@youtxci=\count323
-\l@youtxcii=\count324
-\l@youtxciii=\count325
-\l@youtxciv=\count326
-\l@youtxcv=\count327
-\l@youtxcvi=\count328
-\l@youtyci=\count329
-\l@youtycii=\count330
-\l@youtyciii=\count331
-\l@youtyciv=\count332
-\l@youtycv=\count333
-\l@youtycvi=\count334
-\l@youtycvii=\count335
-\l@youtycviii=\count336
-\l@youtxco=\count337
-\l@youtyco=\count338
-\l@ytempdima=\skip88
-\stockwidth=\skip89
-\stockheight=\skip90
-\trimedge=\skip91
-\trimtop=\skip92
-\uppermargin=\skip93
-\spinemargin=\skip94
+\l@ylen=\skip63
+\layoutsbox=\box38
+\l@youtunitlength=\skip64
+\l@youtlinethick=\skip65
+\l@youtlinethickii=\skip66
+\l@ysetupparskip=\skip67
+\l@ysetupbaselineskip=\skip68
+\l@yonem=\skip69
+\l@yonex=\skip70
+\l@ylmarg=\skip71
+\l@yrmarg=\skip72
+\l@yitmindent=\skip73
+\l@ylblwidth=\skip74
+\l@ylblsep=\skip75
+\l@ylparindent=\skip76
+\l@ytsep=\skip77
+\l@ypskip=\skip78
+\l@yptsep=\skip79
+\l@ypsep=\skip80
+\l@yitmsep=\skip81
+\l@ytok=\toks29
+\l@youtpw=\count136
+\l@youtph=\count137
+\l@youthpi=\count138
+\l@youthpii=\count139
+\l@youthpiii=\count140
+\l@youthpiv=\count141
+\l@youthpv=\count142
+\l@youthpvi=\count143
+\l@youthpvii=\count144
+\l@youtparskip=\count145
+\l@youtvpi=\count146
+\l@youtvpii=\count147
+\l@youtvpiii=\count148
+\l@youtvpiv=\count149
+\l@youtvpv=\count150
+\l@youtvpvi=\count151
+\l@youtvpvii=\count152
+\l@youthdo=\count153
+\l@youthdi=\count154
+\l@youthdii=\count155
+\l@youthdiii=\count156
+\l@youthdiv=\count157
+\l@youthdv=\count158
+\l@youthdvi=\count159
+\l@youthdvii=\count160
+\l@youtvdo=\count161
+\l@youtvdi=\count162
+\l@youtvdii=\count163
+\l@youtvdiii=\count164
+\l@youtvdiv=\count165
+\l@youtvdv=\count166
+\l@youtvdvi=\count167
+\l@youtvdvii=\count168
+\l@youtvdviii=\count169
+\l@youtxci=\count170
+\l@youtxcii=\count171
+\l@youtxciii=\count172
+\l@youtxciv=\count173
+\l@youtxcv=\count174
+\l@youtxcvi=\count175
+\l@youtyci=\count176
+\l@youtycii=\count177
+\l@youtyciii=\count178
+\l@youtyciv=\count179
+\l@youtycv=\count180
+\l@youtycvi=\count181
+\l@youtycvii=\count182
+\l@youtycviii=\count183
+\l@youtxco=\count184
+\l@youtyco=\count185
+\l@ytempdima=\skip82
+\stockwidth=\skip83
+\stockheight=\skip84
+\trimedge=\skip85
+\trimtop=\skip86
+\uppermargin=\skip87
+\spinemargin=\skip88
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/comment\comment.st
-y"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write3
- Excluding comment 'comment')
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+
+Excluding comment 'comment')
+(/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count339
-\float@exts=\toks31
-\float@box=\box57
-\@float@everytoks=\toks32
-\@floatcapt=\box58
+\c@float@type=\count186
+\float@exts=\toks30
+\float@box=\box39
+\@float@everytoks=\toks31
+\@floatcapt=\box40
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eurosym\eurosym.st
-y"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/eurosym/eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
-\@eurobox=\box59
+\@eurobox=\box41
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lastpage\lastpage.
-sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.
-sty"
-Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
-\multirow@colwidth=\skip95
-\multirow@cntb=\count340
-\multirow@dima=\skip96
-\bigstrutjot=\dimen173
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip89
+\multirow@cntb=\count187
+\multirow@dima=\skip90
+\bigstrutjot=\dimen141
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
-.cfg"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortbl.
-sty"
-Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
-\everycr=\toks33
-\minrowclearance=\skip97
+(/usr/local/texlive/2019/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+\everycr=\toks32
+\minrowclearance=\skip91
 )
-\rownum=\count341
+\rownum=\count188
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
@@ -592,30 +540,23 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)) (config/titlepage_input.tex)
+))
+(./config/titlepage_input.tex)
 \@indexfile=\write4
 \openout4 = `relazione.idx'.
 
 
 Writing index file relazione.idx
-
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
-d-pdfmode.def"
-File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count342
-\l__pdf_internal_box=\box60
-) (relazione.aux)
+(./relazione.aux)
 \openout1 = `relazione.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
@@ -623,10 +564,9 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Trying to load font information for T1+qcs on input line 9.
+LaTeX Font Info:    Try loading font information for T1+qcs on input line 9.
 
-
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tex-gyre\t1qcs.fd"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tex-gyre/t1qcs.fd
 File: t1qcs.fd 2009/09/25 v1.2 font definition file for T1/qcs
 )
 *geometry* driver: auto-detecting
@@ -665,57 +605,60 @@ File: t1qcs.fd 2009/09/25 v1.2 font definition file for T1/qcs
 
 LaTeX Info: Redefining \it@ocap on input line 9.
 LaTeX Info: Redefining \it@ccap on input line 9.
-\AtBeginShipoutBox=\box61
+\AtBeginShipoutBox=\box42
 
 Package hyperref Warning: Height of page (\stockheight) is invalid (0.0pt),
 (hyperref)                using 11in.
 
 Package hyperref Info: Link coloring ON on input line 9.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
-ty"
-Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
-
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount.
-sty"
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\g
-ettitlestring.sty"
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count343
+\c@section@level=\count189
 )
 LaTeX Info: Redefining \ref on input line 9.
 LaTeX Info: Redefining \pageref on input line 9.
 LaTeX Info: Redefining \nameref on input line 9.
- (relazione.out) (relazione.out)
+
+(./relazione.out) (./relazione.out)
 \@outlinefile=\write5
 \openout5 = `relazione.out'.
 
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
-df.mkii"
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count344
-\scratchdimen=\dimen174
-\scratchbox=\box62
-\nofMPsegments=\count345
-\nofMParguments=\count346
-\everyMPshowfont=\toks34
-\MPscratchCnt=\count347
-\MPscratchDim=\dimen175
-\MPnumerator=\count348
-\makeMPintoPDFobject=\count349
-\everyMPtoPDFconversion=\toks35
+\scratchcounter=\count190
+\scratchdimen=\dimen142
+\scratchbox=\box43
+\nofMPsegments=\count191
+\nofMParguments=\count192
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count193
+\MPscratchDim=\dimen143
+\MPnumerator=\count194
+\makeMPintoPDFobject=\count195
+\everyMPtoPDFconversion=\toks34
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
-pdf-base.sty"
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-)
-\c@lstlisting=\count350
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count196
 
 
 Package layouts Warning: Layout scale set to 0.5 on input line 9.
@@ -724,43 +667,43 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 9.
 (../latex/titlepage.tex
-<../latex/images/logotitle.png, id=91, 5811.7125pt x 1905.1175pt>
+<../latex/images/logotitle.png, id=92, 5811.7125pt x 1905.1175pt>
 File: ../latex/images/logotitle.png Graphic file (type png)
 <use ../latex/images/logotitle.png>
 Package pdftex.def Info: ../latex/images/logotitle.png  used on input line 5.
 (pdftex.def)             Requested size: 290.60265pt x 95.26144pt.
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 7
-.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 7.
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmss.fd"
-File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `T1/qcs/m/sl' in size <14.4> not available
 (Font)              Font shape `T1/qcs/m/it' tried instead on input line 10.
 
-<../latex/images/logoUniPD.png, id=95, 2309.62875pt x 1043.9pt>
+<../latex/images/logoUniPD.png, id=96, 2309.62875pt x 1043.9pt>
 File: ../latex/images/logoUniPD.png Graphic file (type png)
 <use ../latex/images/logoUniPD.png>
 Package pdftex.def Info: ../latex/images/logoUniPD.png  used on input line 19.
 (pdftex.def)             Requested size: 127.01234pt x 57.40671pt.
 [1
 
-{C:/Users/giada/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <../latex/im
-ages/logotitle.png> <../latex/images/logoUniPD.png>]) (relazione.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../late
+x/images/logotitle.png> <../latex/images/logoUniPD.png>]) (./relazione.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
 \tf@toc=\write6
 \openout6 = `relazione.toc'.
 
-<../latex/images/logo.png, id=128, 2168.1pt x 2168.1pt>
+<../latex/images/logo.png, id=129, 2168.1pt x 2168.1pt>
 File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 16.
@@ -777,21 +720,22 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.16 		
-        [1 <../latex/images/logo.png>] (res/sections/01_Introduction.tex)
-(res/sections/02_Progettazione.tex
+        [1 <../latex/images/logo.png>] (./res/sections/01_Introduction.tex)
+(./res/sections/02_Progettazione.tex
 File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 1.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
  [2]
-LaTeX Font Info:    Trying to load font information for TS1+qcs on input line 1
-1.
+LaTeX Font Info:    Try loading font information for OMS+qcs on input line 11.
+LaTeX Font Info:    No file OMSqcs.fd. on input line 11.
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tex-gyre\ts1qcs.fd
-"
-File: ts1qcs.fd 2009/09/25 v1.2 font definition file for TS1/qcs
-)
-<../latex/images/db.png, id=143, 708.6475pt x 387.4475pt>
+
+LaTeX Font Warning: Font shape `OMS/qcs/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 11.
+
+<../latex/images/db.png, id=144, 708.6475pt x 387.4475pt>
 File: ../latex/images/db.png Graphic file (type png)
 <use ../latex/images/db.png>
 Package pdftex.def Info: ../latex/images/db.png  used on input line 48.
@@ -800,7 +744,7 @@ File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 49.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
- [3]
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 55--59
 
  []
@@ -815,11 +759,10 @@ File: ../latex/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 69.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
 [4 <../latex/images/db.png>]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 8
-0.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 80.
 
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 Underfull \hbox (badness 10000) in paragraph at lines 79--84
 
@@ -844,54 +787,58 @@ File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 22.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
- [6] (res/sections/03_Presentazione.tex) (res/sections/04_Test.tex
+ [6] (./res/sections/03_Presentazione.tex) (./res/sections/04_Test.tex
 File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 1.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
- [7])
+
+[7])
 File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 26.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
-
-[8] (res/sections/05_Realizzazione.tex)
+ [8] (./res/sections/05_Realizzazione.tex)
 File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 28.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
- [9] 
+ [9]
+
 AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 29.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 29.
-(relazione.aux)
+(./relazione.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 29.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 29.
 Package rerunfilecheck Info: File `relazione.out' has not changed.
 (rerunfilecheck)             Checksum: A653655A38C1541716AA3353E2D619E7;1354.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
  ) 
 Here is how much of TeX's memory you used:
- 11290 strings out of 480898
- 166969 string characters out of 2898308
- 478366 words of memory out of 3000000
- 26867 multiletter control sequences out of 15000+200000
- 567235 words of font info for 46 fonts, out of 3000000 for 9000
+ 10733 strings out of 492616
+ 152522 string characters out of 6129482
+ 296685 words of memory out of 5000000
+ 14391 multiletter control sequences out of 15000+600000
+ 38167 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,16n,47p,832b,447s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/giada/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm
--super-t1.enc}{C:/Users/giada/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips
-/tex-gyre/q-ts1.enc}{C:/Users/giada/AppData/Local/Programs/MiKTeX 2.9/fonts/enc
-/dvips/tex-gyre/q-ec.enc}{C:/Users/giada/AppData/Local/Programs/MiKTeX 2.9/font
-s/enc/dvips/tex-gyre/q-ec-sc.enc}<C:/Users/giada/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/tex-gyre/qcsb.pfb><C:/Users/giada/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/tex-gyre/qcsr.pfb><C:/Users/giada/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/tex-gyre/qcsri.pfb><C:/Users/giada/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfss1440.pfb><C:/Users
-/giada/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.p
-fb>
-Output written on relazione.pdf (10 pages, 3135848 bytes).
+ 39i,16n,43p,830b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/loc
+al/texlive/2019/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}</usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/tex-gyre/qcsb.pfb></usr/local/texlive/20
+19/texmf-dist/fonts/type1/public/tex-gyre/qcsr.pfb></usr/local/texlive/2019/tex
+mf-dist/fonts/type1/public/tex-gyre/qcsri.pfb></usr/local/texlive/2019/texmf-di
+st/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2019/texmf-dist
+/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on relazione.pdf (10 pages, 3121262 bytes).
 PDF statistics:
- 228 PDF objects out of 1000 (max. 8388607)
+ 233 PDF objects out of 1000 (max. 8388607)
+ 204 compressed objects within 3 object streams
  43 named destinations out of 1000 (max. 500000)
  197 words of extra memory for PDF output out of 10000 (max. 10000000)
 
