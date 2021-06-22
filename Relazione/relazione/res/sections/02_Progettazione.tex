@@ -43,7 +43,7 @@ prova         & prova     \\
 \end{enumerate}
 
 \subsection{Database}
-Viene ora mostrata la struttura del database del sito, il quale permetterà la gestione degli utenti admin, delle richieste inviate dai clienti, delle impostazioni e dei vari lavori. Ogni lavoro ha più di un'immagine, mentre un'immagine può appartenere ad un solo lavoro.\\C'è poi una tabella per la gestione delle richieste dei clienti, una per la gestione degli admin e una per le impostazioni, ovvero le informazioni tecniche dell'azienda.
+Viene ora mostrata la struttura del database del sito, il quale permetterà la gestione degli utenti admin, delle richieste inviate dai clienti, delle impostazioni e dei vari lavori. Ogni lavoro ha più di un'immagine, un'immagine può appartenere ad un solo lavoro e un paragrafo appartiene solo ad un'immagine.\\C'è poi una tabella per la gestione delle richieste dei clienti, una per la gestione degli admin e una per le impostazioni, ovvero le informazioni tecniche dell'azienda.
 \begin{center}
 \includegraphics[scale = 0.5]{../latex/images/db.png}\\[1.5cm]
 \end{center}
@@ -67,7 +67,7 @@ qualcosa qualcosa qualcosa qualcosa
 	 	\end{itemize}
 	 	\item \textbf{Contatti}\\qualcosa qualcosa\\
  	\end{itemize}
-\textbf{Parti fondamentali -> troviamoci un sinonimo}\\ 
+\textbf{Strutture fondamentali}\\ 
 	qualcosa qualcosa qualcosa
 	\begin{itemize}
 		\item \textbf{Header}\\qualcosa qualcosa
@@ -79,21 +79,21 @@ qualcosa qualcosa qualcosa qualcosa
 Come prima cosa è bene precisare che tutti gli admin inseriti hanno tutti gli stessi permessi sulla gestione del sito. Questo è stato fatto perchè attualmente non ci sono esigenze particolari e gli accessi vengono farti da un numero ristretto di persone fidate.\\
 Ogni amministratore si collega alla pagina di login e si autentica con le credenziali personali. È stata implementata una variabile di \texttt{SESSION}, per poter evitare che terzi possano accedere alle pagine di amministrazione senza essersi autenticati.\\
 Vengono ora descritte e argomentate le pagine che compongono il sito nel \textit{lato cliente}.\\\\
-\textbf{Pagine}\\ Il layout desktop per l'amministratore presenta un menù laterale a destra con tutte le pagine dove esso si può muovere.
+\textbf{Pagine}\\ Il layout desktop per l'amministratore presenta un menù laterale a destra con tutte le pagine dove esso si può muovere. È un'interfaccia molto semplice e intuitiva per favorire l'usabilità anche dell'utente non molto esperto.
 	\begin{itemize}
 		\item \textbf{Dashboard};\\In questa pagina l'amministratore vede le ultime richieste inviate dai clienti e può modificare gli orari di apertura del negozio. Si è deciso di dare la possibilità all'amministratore di modificare solo gli orari, poichè il numero di telefono, l'email e l'indirizzo non sono dati che cambiano spesso, come invece lo sono gli orari di apertura. Uno sviluppo futuro potrebbe essere proprio quello di aggiungere uno spazio per la modifica anche di queste informazioni.
-		\item \textbf{Gestione richieste};\\qualcosa qualcosa
+		\item \textbf{Gestione richieste};\\In questa pagina l'amministratore può leggere tutte le richieste che i clienti inviano tramite il form presente nella pagina di contatti del sito principale. La pagina mostra una lista di richieste, dalla più recente alla meno recente, ed ognuna di essere  si può cliccare per mostrare il contenuto e poi chiudere, oppure la si può eliminare. Non è pensato per creare un thread di comunicazione all'interno di questa pagina: l'amministratore ricontatterà i clienti tramite i propri servizi di posta elettronica, e in questo viene facilitato, in quanto gli basta cliccare sopra all'indirizzo email, per fare in modo di aprire il proprio servizio di posta elettronica e di inviare un'email con oggetto "Risposta Fioreria all'Arco".		
 		\item \textbf{Gestione categorie};\\dire le pagine che lo compongono e come funziona il tutto
 	 	\begin{itemize}
  			\item Aggiungi categoria;\\qualcosa qualcosa
  			\item Modifica categoria;\\qualcosa qualcosa
  			\item Elimina categoria;\\qualcosa qualcosa
 	 	\end{itemize}
- 	\item \textbf{Gestione utenti}\\qualcosa qualcosa qualcosa
+ 	\item \textbf{Gestione utenti}\\In questa pagina l'amministratore autenticato può visionare gli account degli altri amministratori, eliminarne o aggiungerne uno di nuovo. 
  	\item \textbf{Logout}\\Quando l'amministratore clicca su questa voce del menù, effettua il logout dalla piattaforma e viene reindirizzato alla pagina di login. La variabile di \texttt{SESSION} viene quindi chiusa e quindi se l'amministratore prova ad accedere ad una specifica pagina di amministrazione dopo aver fatto il logout, viene reindirizzato alla pagina di login per potersi autenticare.\\
  	\end{itemize}
-\textbf{Parti fondamentali -> troviamoci un sinonimo} \\
+\textbf{Strutture fondamentali}
 \begin{itemize}
-	\item \textbf{Breadcrumb}\\	qualcosa qualcosa qualcosa
+	\item \textbf{Breadcrumb}\\	È stata inserita una breadcrumb in ogni pagina per aiutare l'utente a capire dove si trova. 
 	\item \textbf{Funzionamento PHP}\\	DbConnection ecc.
 \end{itemize}
