@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.12.14)  22 JUN 2021 12:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.12.14)  22 JUN 2021 14:45
 entering extended mode
 **./relazione.tex
 (relazione.tex
@@ -811,21 +811,21 @@ Package pdftex.def Info: ../latex/images/logo.png  used on input line 63.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
 [4 <../latex/images/db.png>]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
-4.
+5.
 
 ("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 73--78
+Underfull \hbox (badness 10000) in paragraph at lines 74--79
 
  []
 
 File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
-Package pdftex.def Info: ../latex/images/logo.png  used on input line 80.
+Package pdftex.def Info: ../latex/images/logo.png  used on input line 81.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
 
  []
 
@@ -863,7 +863,7 @@ Package rerunfilecheck Info: File `relazione.out' has not changed.
 Here is how much of TeX's memory you used:
  11294 strings out of 480898
  167029 string characters out of 2898308
- 478369 words of memory out of 3000000
+ 479369 words of memory out of 3000000
  26869 multiletter control sequences out of 15000+200000
  567235 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -879,7 +879,7 @@ Programs/MiKTeX 2.9/fonts/type1/public/tex-gyre/qcsri.pfb><C:/Users/giada/AppDa
 ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfss1440.pfb><C:/Users
 /giada/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.p
 fb>
-Output written on relazione.pdf (10 pages, 3141886 bytes).
+Output written on relazione.pdf (10 pages, 3141722 bytes).
 PDF statistics:
  238 PDF objects out of 1000 (max. 8388607)
  45 named destinations out of 1000 (max. 500000)
