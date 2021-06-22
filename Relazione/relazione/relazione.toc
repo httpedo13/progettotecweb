@@ -9,7 +9,7 @@
 \contentsline {subsection}{\numberline {2.2}Database}{3}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Struttura dei contenuti}{4}{subsection.2.3}%
 \contentsline {subsubsection}{\numberline {2.3.1}Lato cliente}{4}{subsubsection.2.3.1}%
-\contentsline {subsubsection}{\numberline {2.3.2}Lato Admin}{5}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.2}Lato admin}{5}{subsubsection.2.3.2}%
 \contentsline {section}{\numberline {3}Presentazione}{7}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Desktop}{7}{subsection.3.1}%
 \contentsline {subsubsection}{\numberline {3.1.1}Cliente}{7}{subsubsection.3.1.1}%
