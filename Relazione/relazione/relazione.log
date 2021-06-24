@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.12.14)  24 JUN 2021 17:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.12.14)  24 JUN 2021 21:38
 entering extended mode
 **./relazione.tex
 (relazione.tex
@@ -791,11 +791,11 @@ LaTeX Font Info:    Trying to load font information for TS1+qcs on input line 1
 "
 File: ts1qcs.fd 2009/09/25 v1.2 font definition file for TS1/qcs
 )
-<../latex/images/db.png, id=153, 754.82pt x 387.4475pt>
+<../latex/images/db.png, id=153, 753.81625pt x 387.4475pt>
 File: ../latex/images/db.png Graphic file (type png)
 <use ../latex/images/db.png>
 Package pdftex.def Info: ../latex/images/db.png  used on input line 48.
-(pdftex.def)             Requested size: 377.40909pt x 193.72327pt.
+(pdftex.def)             Requested size: 376.90721pt x 193.72327pt.
 File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 49.
@@ -888,7 +888,7 @@ Programs/MiKTeX 2.9/fonts/type1/public/tex-gyre/qcsri.pfb><C:/Users/giada/AppDa
 ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfss1440.pfb><C:/Users
 /giada/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.p
 fb>
-Output written on relazione.pdf (11 pages, 3150204 bytes).
+Output written on relazione.pdf (11 pages, 3150344 bytes).
 PDF statistics:
  245 PDF objects out of 1000 (max. 8388607)
  46 named destinations out of 1000 (max. 500000)
