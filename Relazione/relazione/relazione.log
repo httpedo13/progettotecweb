@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.12.14)  25 JUN 2021 00:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.12.14)  25 JUN 2021 11:47
 entering extended mode
 **./relazione.tex
 (relazione.tex
@@ -739,11 +739,17 @@ File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 LaTeX Font Warning: Font shape `T1/qcs/m/sl' in size <14.4> not available
 (Font)              Font shape `T1/qcs/m/it' tried instead on input line 10.
 
-<../latex/images/logoUniPD.png, id=95, 2309.62875pt x 1043.9pt>
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+5.
+("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+<../latex/images/logoUniPD.png, id=94, 2309.62875pt x 1043.9pt>
 File: ../latex/images/logoUniPD.png Graphic file (type png)
 <use ../latex/images/logoUniPD.png>
 Package pdftex.def Info: ../latex/images/logoUniPD.png  used on input line 19.
 (pdftex.def)             Requested size: 127.01234pt x 57.40671pt.
+
 [1
 
 {C:/Users/giada/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <../latex/im
@@ -810,12 +816,6 @@ File: ../latex/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 61.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
 [4 <../latex/images/db.png>]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
-3.
-
-("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
 Underfull \hbox (badness 10000) in paragraph at lines 72--77
 
  []
@@ -959,11 +959,11 @@ Package rerunfilecheck Info: File `relazione.out' has not changed.
 (rerunfilecheck)             Checksum: 108E35A3D72C4D787A4885DB8A71CDE1;1348.
  ) 
 Here is how much of TeX's memory you used:
- 11368 strings out of 480898
- 169168 string characters out of 2898308
+ 11370 strings out of 480898
+ 169192 string characters out of 2898308
  479370 words of memory out of 3000000
- 26929 multiletter control sequences out of 15000+200000
- 567235 words of font info for 46 fonts, out of 3000000 for 9000
+ 26930 multiletter control sequences out of 15000+200000
+ 567548 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,16n,47p,1004b,447s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/giada/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm
@@ -976,10 +976,11 @@ s/enc/dvips/tex-gyre/q-ec-sc.enc}<C:/Users/giada/AppData/Local/Programs/MiKTeX
 Programs/MiKTeX 2.9/fonts/type1/public/tex-gyre/qcsri.pfb><C:/Users/giada/AppDa
 ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfss1440.pfb><C:/Users
 /giada/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.p
-fb>
-Output written on relazione.pdf (13 pages, 5433911 bytes).
+fb><C:/Users/giada/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-supe
+r/sftt1440.pfb>
+Output written on relazione.pdf (13 pages, 5457688 bytes).
 PDF statistics:
- 261 PDF objects out of 1000 (max. 8388607)
+ 265 PDF objects out of 1000 (max. 8388607)
  47 named destinations out of 1000 (max. 500000)
  257 words of extra memory for PDF output out of 10000 (max. 10000000)
 
