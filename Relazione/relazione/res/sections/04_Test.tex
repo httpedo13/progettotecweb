@@ -2,20 +2,19 @@
 \subsection{Accessibilità}
 Durante lo sviluppo del sito, è stato posto un occhio di riguardo nei confronti dell'accessibilità di tutto il sistema.\\In seguito riportiamo le nostre scelte adottate per perseguire questo obiettivo.
 \begin{enumerate}
-	\item separazione tra \textit{struttura} (creata in HTML5), \textit{presentazione} (con i fogli di stile esterni CSS) e \textit{comportamento} (implementazione di script in JavaScript); \\questo è stato fatto per garantire un migliore risultato nei motori di ricerca e per una maggiore manutenibilità.
-	
-	\item nonostante l'utilizzo di JavaScript serva per rendere il sito più fluido e praticabile, l'implementazione di script è comunque ridotta al minimo necessario, in quanto nel caso un utente lo abbia disabilitato, non porti il sito a non essere più accessibile.
-	\item il codice è stato scritto seguendo le regole e le raccomandazioni del W3C.
-	\item nella pagina di vetrina dei vari lavori sono state appostate delle ancore per far ritornare all'inizio della pagina.
+	\item separazione tra \textit{struttura} (creata in HTML5), \textit{presentazione} (con i fogli di stile esterni CSS) e \textit{comportamento} (implementazione di script in JavaScript); \\questo è stato fatto per garantire un migliore risultato nei motori di ricerca e per una maggiore manutenibilità.	
+	\item nonostante l'utilizzo di JavaScript serva per rendere il sito più fluido e praticabile, l'implementazione di script nella parte accessibile ai visitatori è ridotta al minimo necessario, in quanto nel caso un utente lo abbia disabilitato, non porti il sito a non essere più accessibile.
+	\item il codice è stato scritto seguendo le regole e le raccomandazioni del W3C. 
+	\item nella pagina di vetrina dei vari lavori sono state nascoste delle ancore per far ritornare all'inizio della pagina il visitatore con disabilità visive.
 	\item il sito presenta molti collegamenti che potrebbero portare l'utente a perdersi. Per questo: 
 	\begin{itemize}
 	\item è stata inserita una breadcrumb in ogni pagina;
-	\item si è deciso di non andare troppo in profondità con l'albero delle pagine e di "guidare" l'utente nelle sezioni di sito più profonde, predisponendo una chiara strategia per tornare più a superficie;
-	\item sono stati eliminati i link ricorsivi all'interno di una stessa pagina;
-	\item i link sono facilmente riconoscibili e si evidenziano con colori differenti, quelli già visitati da quelli ancora da visitare.
+	\item si è deciso di non andare troppo in profondità con l'albero delle pagine e di "guidare" l'utente nelle sezioni di sito più profonde, predisponendo una chiara strategia per tornare più in superficie;
+	\item sono stati eliminati quasi tutti i link ricorsivi all'interno di una stessa pagina, lasciandone solo uno nella pagina Home perchè richiesto dal committente; 
+	\item i link sono facilmente riconoscibili e si evidenziano con colori differenti quelli già visitati da quelli ancora da visitare.
 	\end{itemize}	
 	\item sono stati inseriti gli attributi \texttt{tabindex} per ordinare la tabulazione, in modo tale da rendere il sito utilizzabile da tastiera.
-	\item tutte le immagini nel sito presentano il tag \texttt{alt} con un'adeguata descrizione dell'immagine stessa. In particolare, è stato studiato a fondo un sistema che permetta all'admin di inserire un tag \texttt{alt} nel momento in cui va ad inserire un'immagine o una serie di immagini.
+	\item tutte le immagini nel sito presentano il tag \texttt{alt} con un'adeguata descrizione dell'immagine stessa. In particolare, è stato studiato a fondo un sistema che permetta all'admin di inserire un tag \texttt{alt} nel momento in cui va ad inserire un'immagine. 
 	\item Per ulteriori controlli è stata sfruttata l'estensione \href{https://chrome.google.com/webstore/detail/accessibility-insights-fo/pbjjkligggfmakdaogkfomddhfmpjeni}{\texttt{Accessibility Insights for Web}}.
 \end{enumerate}
 \subsection{Validazione del codice}

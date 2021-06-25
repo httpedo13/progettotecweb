@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.12.14)  25 JUN 2021 11:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.12.14)  25 JUN 2021 15:42
 entering extended mode
 **./relazione.tex
 (relazione.tex
@@ -791,23 +791,24 @@ Package pdftex.def Info: ../latex/images/logo.png  used on input line 1.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
  [2]
 LaTeX Font Info:    Trying to load font information for TS1+qcs on input line 1
-1.
+2.
 
 ("C:\Users\giada\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tex-gyre\ts1qcs.fd
 "
 File: ts1qcs.fd 2009/09/25 v1.2 font definition file for TS1/qcs
 )
-<../latex/images/db.png, id=143, 753.81625pt x 387.4475pt>
-File: ../latex/images/db.png Graphic file (type png)
-<use ../latex/images/db.png>
-Package pdftex.def Info: ../latex/images/db.png  used on input line 47.
-(pdftex.def)             Requested size: 376.90721pt x 193.72327pt.
 File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
-Package pdftex.def Info: ../latex/images/logo.png  used on input line 48.
+Package pdftex.def Info: ../latex/images/logo.png  used on input line 47.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
  [3]
-Underfull \hbox (badness 10000) in paragraph at lines 54--58
+<../latex/images/db.png, id=151, 753.81625pt x 387.4475pt>
+File: ../latex/images/db.png Graphic file (type png)
+<use ../latex/images/db.png>
+Package pdftex.def Info: ../latex/images/db.png  used on input line 48.
+(pdftex.def)             Requested size: 376.90721pt x 193.72327pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
 
  []
 
@@ -816,7 +817,7 @@ File: ../latex/images/logo.png Graphic file (type png)
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 61.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
 [4 <../latex/images/db.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 72--77
+Underfull \hbox (badness 10000) in paragraph at lines 73--78
 
  []
 
@@ -828,62 +829,67 @@ Package pdftex.def Info: ../latex/images/logo.png  used on input line 79.
 <../latex/images/aggiungi.png, id=164, 271.0125pt x 135.50626pt>
 File: ../latex/images/aggiungi.png Graphic file (type png)
 <use ../latex/images/aggiungi.png>
-Package pdftex.def Info: ../latex/images/aggiungi.png  used on input line 83.
+Package pdftex.def Info: ../latex/images/aggiungi.png  used on input line 85.
 (pdftex.def)             Requested size: 104.56342pt x 52.28067pt.
 <../latex/images/pt2.png, id=165, 743.02594pt x 356.83313pt>
 File: ../latex/images/pt2.png Graphic file (type png)
 <use ../latex/images/pt2.png>
-Package pdftex.def Info: ../latex/images/pt2.png  used on input line 83.
+Package pdftex.def Info: ../latex/images/pt2.png  used on input line 85.
 (pdftex.def)             Requested size: 167.2989pt x 80.34387pt.
 <../latex/images/pt1.png, id=166, 743.02594pt x 721.94719pt>
 File: ../latex/images/pt1.png Graphic file (type png)
 <use ../latex/images/pt1.png>
-Package pdftex.def Info: ../latex/images/pt1.png  used on input line 86.
+Package pdftex.def Info: ../latex/images/pt1.png  used on input line 88.
 (pdftex.def)             Requested size: 125.47737pt x 121.9142pt.
 <../latex/images/pt3.png, id=167, 737.75626pt x 448.67625pt>
 File: ../latex/images/pt3.png Graphic file (type png)
 <use ../latex/images/pt3.png>
-Package pdftex.def Info: ../latex/images/pt3.png  used on input line 86.
+Package pdftex.def Info: ../latex/images/pt3.png  used on input line 88.
 (pdftex.def)             Requested size: 167.2989pt x 101.74196pt.
-<../latex/images/modifica.png, id=168, 249.93375pt x 303.38344pt>
-File: ../latex/images/modifica.png Graphic file (type png)
-<use ../latex/images/modifica.png>
-Package pdftex.def Info: ../latex/images/modifica.png  used on input line 95.
-(pdftex.def)             Requested size: 99.58464pt x 120.87903pt.
 File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
-Package pdftex.def Info: ../latex/images/logo.png  used on input line 100.
+Package pdftex.def Info: ../latex/images/logo.png  used on input line 92.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
  [6 <../latex/images/aggiungi.png> <../latex/images/pt2.png> <../latex/images/p
 t1.png> <../latex/images/pt3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+<../latex/images/modifica.png, id=174, 249.93375pt x 303.38344pt>
+File: ../latex/images/modifica.png Graphic file (type png)
+<use ../latex/images/modifica.png>
+Package pdftex.def Info: ../latex/images/modifica.png  used on input line 97.
+(pdftex.def)             Requested size: 99.58464pt x 120.87903pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
  []
 
-)
+File: ../latex/images/logo.png Graphic file (type png)
+<use ../latex/images/logo.png>
+Package pdftex.def Info: ../latex/images/logo.png  used on input line 109.
+(pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
+[7pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3.
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.109 \end{itemize}
+                    <../latex/images/modifica.png>])
 File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 22.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
- [7pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3
-.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.22 	\input
-            {res/sections/03_Presentazione.tex} 	 <../latex/images/modifica.png
->] (res/sections/03_Presentazione.tex
+ [8]
+(res/sections/03_Presentazione.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-<../latex/images/desktopclient.png, id=181, 1138.2525pt x 384.2355pt>
+<../latex/images/desktopclient.png, id=186, 1138.2525pt x 384.2355pt>
 File: ../latex/images/desktopclient.png Graphic file (type png)
 <use ../latex/images/desktopclient.png>
 Package pdftex.def Info: ../latex/images/desktopclient.png  used on input line 
 10.
 (pdftex.def)             Requested size: 398.39435pt x 134.48444pt.
-<../latex/images/desktopclient-footer.png, id=182, 1138.2525pt x 240.9pt>
+<../latex/images/desktopclient-footer.png, id=187, 1138.2525pt x 240.9pt>
 File: ../latex/images/desktopclient-footer.png Graphic file (type png)
 <use ../latex/images/desktopclient-footer.png>
 Package pdftex.def Info: ../latex/images/desktopclient-footer.png  used on inpu
@@ -893,41 +899,41 @@ File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 15.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
-[8 <../latex/images/desktopclient.png> <../latex/images/desktopclient-footer.pn
+[9 <../latex/images/desktopclient.png> <../latex/images/desktopclient-footer.pn
 g>]
-<../latex/images/desktopadmin.png, id=188, 890.72775pt x 382.42876pt>
+<../latex/images/desktopadmin.png, id=193, 890.72775pt x 382.42876pt>
 File: ../latex/images/desktopadmin.png Graphic file (type png)
 <use ../latex/images/desktopadmin.png>
 Package pdftex.def Info: ../latex/images/desktopadmin.png  used on input line 1
 6.
 (pdftex.def)             Requested size: 356.28479pt x 152.96878pt.
-<../latex/images/mobileclient.png, id=189, 387.849pt x 480.5955pt>
+<../latex/images/mobileclient.png, id=194, 387.849pt x 480.5955pt>
 File: ../latex/images/mobileclient.png Graphic file (type png)
 <use ../latex/images/mobileclient.png>
 Package pdftex.def Info: ../latex/images/mobileclient.png  used on input line 2
-3.
+4.
 (pdftex.def)             Requested size: 135.74918pt x 168.21094pt.
 File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
-Package pdftex.def Info: ../latex/images/logo.png  used on input line 27.
+Package pdftex.def Info: ../latex/images/logo.png  used on input line 28.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
- [9 <../latex/images/desktopadmin.png> <../latex/images/mobileclient.png>]
-<../latex/images/mobileadmin.png, id=196, 395.076pt x 540.8205pt>
+ [10 <../latex/images/desktopadmin.png> <../latex/images/mobileclient.png>]
+<../latex/images/mobileadmin.png, id=201, 395.076pt x 540.8205pt>
 File: ../latex/images/mobileadmin.png Graphic file (type png)
 <use ../latex/images/mobileadmin.png>
-Package pdftex.def Info: ../latex/images/mobileadmin.png  used on input line 28
+Package pdftex.def Info: ../latex/images/mobileadmin.png  used on input line 29
 .
 (pdftex.def)             Requested size: 138.27866pt x 189.29001pt.
-<../latex/images/clientprint.png, id=197, 395.076pt x 470.9595pt>
+<../latex/images/clientprint.png, id=202, 395.076pt x 470.9595pt>
 File: ../latex/images/clientprint.png Graphic file (type png)
 <use ../latex/images/clientprint.png>
-Package pdftex.def Info: ../latex/images/clientprint.png  used on input line 33
+Package pdftex.def Info: ../latex/images/clientprint.png  used on input line 34
 .
 (pdftex.def)             Requested size: 146.39133pt x 174.51099pt.
-<../latex/images/adminprint.png, id=198, 477.58424pt x 382.42876pt>
+<../latex/images/adminprint.png, id=203, 477.58424pt x 382.42876pt>
 File: ../latex/images/adminprint.png Graphic file (type png)
 <use ../latex/images/adminprint.png>
-Package pdftex.def Info: ../latex/images/adminprint.png  used on input line 33.
+Package pdftex.def Info: ../latex/images/adminprint.png  used on input line 34.
 
 (pdftex.def)             Requested size: 188.21288pt x 150.7105pt.
 )
@@ -935,20 +941,19 @@ File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 24.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
-
-[10 <../latex/images/mobileadmin.png> <../latex/images/clientprint.png> <../lat
+[11 <../latex/images/mobileadmin.png> <../latex/images/clientprint.png> <../lat
 ex/images/adminprint.png>] (res/sections/04_Test.tex)
 File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 26.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
- [11]
+ [12]
 (res/sections/05_Realizzazione.tex)
 File: ../latex/images/logo.png Graphic file (type png)
 <use ../latex/images/logo.png>
 Package pdftex.def Info: ../latex/images/logo.png  used on input line 28.
 (pdftex.def)             Requested size: 43.37115pt x 43.37115pt.
- [12] 
+ [13] 
 AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 29.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 29.
@@ -959,13 +964,13 @@ Package rerunfilecheck Info: File `relazione.out' has not changed.
 (rerunfilecheck)             Checksum: 108E35A3D72C4D787A4885DB8A71CDE1;1348.
  ) 
 Here is how much of TeX's memory you used:
- 11370 strings out of 480898
- 169192 string characters out of 2898308
+ 11371 strings out of 480898
+ 169199 string characters out of 2898308
  479370 words of memory out of 3000000
  26930 multiletter control sequences out of 15000+200000
  567548 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,16n,47p,1004b,447s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,16n,47p,932b,535s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/giada/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm
 -super-t1.enc}{C:/Users/giada/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips
 /tex-gyre/q-ts1.enc}{C:/Users/giada/AppData/Local/Programs/MiKTeX 2.9/fonts/enc
@@ -978,9 +983,9 @@ ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfss1440.pfb><C:/Users
 /giada/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.p
 fb><C:/Users/giada/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-supe
 r/sftt1440.pfb>
-Output written on relazione.pdf (13 pages, 5457688 bytes).
+Output written on relazione.pdf (14 pages, 5463790 bytes).
 PDF statistics:
- 265 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
+ 270 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
  257 words of extra memory for PDF output out of 10000 (max. 10000000)
 
